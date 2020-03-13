@@ -1,8 +1,10 @@
 {
 	"homepage": "https://github.com/yazdipour/MuteSpotifyAds",
 	"version": "1.0",
+	"description": "Mute Spotify when there is a playing advertisement",
 	"url":"https://github.com/yazdipour/MuteSpotifyAds/releases/download/v1.0/MuteSpotifyAds.exe"
 	,
+	"bin": "Cmder.exe",
 	"shortcuts": [
         [
             "MuteSpotifyAds.exe"
